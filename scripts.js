@@ -1,13 +1,7 @@
 // Your web app's Firebase configuration
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "",
-    authDomain: "apps-taskhooker-com.firebaseapp.com",
-    projectId: "apps-taskhooker-com",
-    storageBucket: "apps-taskhooker-com.appspot.com",
-    messagingSenderId: "485951992785",
-  };
+  
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
