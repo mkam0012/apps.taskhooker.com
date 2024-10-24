@@ -2,7 +2,7 @@
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   const firebaseConfig = {
-    apiKey: "AIzaSyAJuORCzYg-gddrxDfX-nONMu-d4Yxyy-Y",
+    apiKey: "",
     authDomain: "apps-taskhooker-com.firebaseapp.com",
     projectId: "apps-taskhooker-com",
     storageBucket: "apps-taskhooker-com.appspot.com",
